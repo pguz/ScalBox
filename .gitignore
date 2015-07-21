@@ -1,0 +1,8 @@
+target/
+project/
+nodes/
+.*
+/local/
+!.gitignore
+DistTest*
+LocalTest
